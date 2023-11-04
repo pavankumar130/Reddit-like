@@ -19,7 +19,7 @@ Full stack reddit clone built with React, Redux, Node.js, Express, and PostgreSQ
 1. Clone this repository
 
 ```
-git clone https://github.com/tacticaltofu/reddit-clone.git
+git clone https://github.com/pavankumar130/Reddit-like.git
 cd reddit-clone
 ```
 
